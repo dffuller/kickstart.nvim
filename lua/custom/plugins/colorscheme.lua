@@ -1,5 +1,5 @@
 return {
-  'mhartingon/oceanic-next',
+  'mhartington/oceanic-next',
   priority = 1000,
   init = function()
     vim.cmd.colorscheme 'OceanicNext'
