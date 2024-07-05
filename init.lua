@@ -813,5 +813,7 @@ require('lazy').setup({
   },
 })
 
+-- add a comment for git changes
+--
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et
